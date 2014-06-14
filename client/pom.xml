@@ -5,12 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>jphollanti</groupId>
+        <groupId>jphollanti.streaming</groupId>
         <artifactId>StreamingTest</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>jphollanti</groupId>
     <artifactId>StreamingTestClient</artifactId>
 
     <dependencies>
